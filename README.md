@@ -2,10 +2,8 @@
 Hello
 
 I'm a student in M.Sc Electrical and Computer Engineering at Tarbiat Modares University (TMU), my major is Electronic. I've worked on Machine Learning and IC design.
-My research interests are Machine Learning, Deep Learning, Computer Vision, Computer Architecture, RFIC and IC design.
+My research interests are Machine Learning, Deep Learning, Computer Vision, Computer Architecture, Natural Language Processing, and VLSI.
 I am currently looking for a Ph.D. position to further proceed in my education.
-
-website: parsaeng.wixsite.com/website 
 
 linkedIn: linkedin.com/in/parsa-khorrami
 <!---
